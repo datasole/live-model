@@ -1,6 +1,4 @@
 const {
-  clearAll,
-  mergeKeyPath,
   circularAppendKeyPath,
   setKeyPath,
   shallowAssignKeyPath

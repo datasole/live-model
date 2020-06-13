@@ -1,6 +1,6 @@
 {
   "name": "@datasole/live-model",
-  "version": "0.5.0",
+  "version": "0.1.0",
   "description": "Simple abstraction for applying a stream of mutations to a nested JSON object.",
   "main": "lib/index.js",
   "scripts": {
