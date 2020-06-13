@@ -1,0 +1,26 @@
+{
+  "name": "@datasole/live-model",
+  "version": "0.5.0",
+  "description": "Simple abstraction for applying a stream of mutations to a nested JSON object.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test-watch": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datasole/live-model.git"
+  },
+  "author": "Mayank Lahiri <mlahiri@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/datasole/live-model/issues"
+  },
+  "homepage": "https://github.com/datasole/live-model#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
